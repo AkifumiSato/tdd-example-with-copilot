@@ -1,6 +1,5 @@
 {
   "tasks": {
-    "fb": "deno test --watch fizz_buzz_test.ts",
-    "dev": "deno run --watch main.ts"
+    "fb": "deno test --watch fizz_buzz_test.ts"
   }
 }

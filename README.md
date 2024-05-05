@@ -2,4 +2,4 @@
 
 ## Article
 
-TBW: zenn.dev
+https://zenn.dev/akfm/tdd-with-copilot
